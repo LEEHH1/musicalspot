@@ -97,7 +97,7 @@ const ReviewList: React.FC = () => {
       }
     } catch (error) {
       console.error("리뷰 로딩 중 오류 발생:", error);
-      setError("리뷰를 불러오는 데 실패했습니다. 다시 시도해 주세요.");
+      setError("리뷰를 ㅇㅇㅇㅇㅇㅇ 데 실패했습니다. 다시 시도해 주세요.");
     } finally {
       setLoading(false);
     }
